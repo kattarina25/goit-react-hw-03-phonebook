@@ -1,0 +1,19 @@
+.contactList {
+  width: 400px;
+}
+.contactList li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  align-items: center;
+  line-height: 30px;
+  padding: 5px;
+  border-bottom: 1px solid #01afaf;
+}
+.contactList button {
+  color: #dc143c;
+  font-size: 18px;
+  font-weight: 700;
+
+  background: transparent;
+}
